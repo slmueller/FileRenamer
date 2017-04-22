@@ -1,2 +1,2 @@
 # FileRenamer
-Batch renaming of files and folders (and subfolders)
+Batch renaming of files, folders, and subfolders
