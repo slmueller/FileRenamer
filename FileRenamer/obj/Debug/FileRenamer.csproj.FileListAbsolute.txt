@@ -1,0 +1,5 @@
+c:\users\susanne\documents\visual studio 2017\Projects\FileRenamer\FileRenamer\bin\Debug\FileRenamer.exe.config
+c:\users\susanne\documents\visual studio 2017\Projects\FileRenamer\FileRenamer\bin\Debug\FileRenamer.exe
+c:\users\susanne\documents\visual studio 2017\Projects\FileRenamer\FileRenamer\bin\Debug\FileRenamer.pdb
+c:\users\susanne\documents\visual studio 2017\Projects\FileRenamer\FileRenamer\obj\Debug\FileRenamer.exe
+c:\users\susanne\documents\visual studio 2017\Projects\FileRenamer\FileRenamer\obj\Debug\FileRenamer.pdb
