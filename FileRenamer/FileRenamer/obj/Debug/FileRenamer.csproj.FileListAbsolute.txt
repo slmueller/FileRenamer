@@ -3,3 +3,8 @@ c:\users\susanne\documents\visual studio 2017\Projects\FileRenamer\FileRenamer\b
 c:\users\susanne\documents\visual studio 2017\Projects\FileRenamer\FileRenamer\bin\Debug\FileRenamer.pdb
 c:\users\susanne\documents\visual studio 2017\Projects\FileRenamer\FileRenamer\obj\Debug\FileRenamer.exe
 c:\users\susanne\documents\visual studio 2017\Projects\FileRenamer\FileRenamer\obj\Debug\FileRenamer.pdb
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamer\FileRenamer\bin\Debug\FileRenamer.exe.config
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamer\FileRenamer\bin\Debug\FileRenamer.exe
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamer\FileRenamer\bin\Debug\FileRenamer.pdb
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamer\FileRenamer\obj\Debug\FileRenamer.exe
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamer\FileRenamer\obj\Debug\FileRenamer.pdb

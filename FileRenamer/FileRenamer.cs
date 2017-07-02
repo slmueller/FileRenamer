@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 using System.Text.RegularExpressions;
 using System.IO;
 
+
 namespace FileRenamer {
     public class FileRenamerClass {
 
-        private List<FilePath> Paths { get; set; }   //maps old to new paths
+        internal List<FilePath> Paths { get; set; }   //maps old to new paths
         private string ParentDirectory { get; set; }  //directory in which user wants to rename files & folders, NOT including the parent folder he wants to rename
         //e.g. directoryPath = C:\\Test\ParentDirectory\FolderToBeRenamed --> contains SubfoldersToBeRenamed
 
@@ -17,9 +18,9 @@ namespace FileRenamer {
 
             this.ParentDirectory = GetParentDirectory(directoryPath);
 
-            if (this.Paths == null) {    //create only once
+            //if (this.Paths == null) {    //create only once
                 this.Paths = GetAllPathsInDirectory(directoryPath);    //Get all filenames/Paths
-            }
+            //}
         }
 
 
@@ -83,7 +84,7 @@ namespace FileRenamer {
         private Regex CreateRegexToCaptureFoldersAndFilesToBeRenamed() {
 
             string parentDirPattern = Regex.Escape(this.ParentDirectory);   //adds escape characters to \
-            string wholePattern = "^" + parentDirPattern + "(.*)$";  //string starts with parentDirectory path, capture everything between parentDir and end of string
+            string wholePattern = "^" + parentDirPattern + "(.*)$";  //string starts with parentDirectory path, capture everything between parentDir and end of string (inside the brackets)
                                                                      //e.g. C:\\GrandParentDir\ParentDir\FolderToBeRenamed\SubfolderToBeRenamed\FileToBeRenamed --> pattern will capture "\FolderToBeRenamed\SubfolderToBeRenamed\FileToBeRenamed"
             Regex r = new Regex(wholePattern);
 

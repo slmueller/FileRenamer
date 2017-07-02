@@ -3,3 +3,13 @@ c:\users\susanne\documents\visual studio 2017\Projects\FileRenamer\FileRenamer\b
 c:\users\susanne\documents\visual studio 2017\Projects\FileRenamer\FileRenamer\bin\Debug\FileRenamer.pdb
 c:\users\susanne\documents\visual studio 2017\Projects\FileRenamer\FileRenamer\obj\Debug\FileRenamer.exe
 c:\users\susanne\documents\visual studio 2017\Projects\FileRenamer\FileRenamer\obj\Debug\FileRenamer.pdb
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamer\bin\Debug\FileRenamer.exe.config
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamer\bin\Debug\FileRenamer.exe
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamer\bin\Debug\FileRenamer.pdb
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamer\obj\Debug\FileRenamer.exe
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamer\obj\Debug\FileRenamer.pdb
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamer\bin\Debug\Castle.Core.dll
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamer\bin\Debug\Moq.dll
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamer\bin\Debug\System.IO.Abstractions.dll
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamer\bin\Debug\Castle.Core.xml
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamer\bin\Debug\Moq.xml

@@ -13,3 +13,23 @@ C:\Users\Susanne\Documents\Visual Studio 2017\Projects\FileRenamer\FileRenamerTe
 C:\Users\Susanne\Documents\Visual Studio 2017\Projects\FileRenamer\FileRenamerTests\obj\Debug\FileRenamerTests.csprojResolveAssemblyReference.cache
 C:\Users\Susanne\Documents\Visual Studio 2017\Projects\FileRenamer\FileRenamerTests\obj\Debug\FileRenamerTests.dll
 C:\Users\Susanne\Documents\Visual Studio 2017\Projects\FileRenamer\FileRenamerTests\obj\Debug\FileRenamerTests.pdb
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamerTests\bin\Debug\FileRenamerTests.dll
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamerTests\bin\Debug\FileRenamerTests.pdb
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamerTests\bin\Debug\FileRenamer.exe
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamerTests\bin\Debug\FileRenamer.pdb
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamerTests\bin\Debug\FileRenamer.exe.config
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamerTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamerTests\obj\Debug\FileRenamerTests.csprojResolveAssemblyReference.cache
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamerTests\obj\Debug\FileRenamerTests.dll
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamerTests\obj\Debug\FileRenamerTests.pdb
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamerTests\bin\Debug\Castle.Core.dll
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamerTests\bin\Debug\Moq.dll
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamerTests\bin\Debug\System.IO.Abstractions.dll
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamerTests\bin\Debug\Castle.Core.xml
+C:\Users\Susanne\Documents\GitHub\FileRenamer\FileRenamerTests\bin\Debug\Moq.xml

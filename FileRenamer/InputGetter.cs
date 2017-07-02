@@ -17,7 +17,7 @@ namespace FileRenamer {
         /// <returns>directory path</returns>
         public static string GetDirectory() {
             //ask for input directory
-            Console.WriteLine(@"Enter directory path to be renamed: e.g. C:\Users\Susanne\Desktop\Test1000\Test2000");
+            Console.WriteLine(@"Enter directory path to be renamed: e.g. C:\Users\Susanne\Documents\LindseyBieda\Test1000\Test2000");
             string directoryPath = Console.ReadLine().Trim();
             return directoryPath;
         }
